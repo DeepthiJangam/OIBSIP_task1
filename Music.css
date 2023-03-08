@@ -1,0 +1,72 @@
+.MainPage{
+    background-image:url("https://thumbs.dreamstime.com/z/microphone-headphones-audio-music-multimedia-background-d-illustration-149374458.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.HeadingBox{
+    text-align:center;
+    color: #ffffff;
+    margin: 170px;
+    font-weight: bold;
+    font-family: "BreeSerif";
+    text-shadow:#ffffff;
+}
+.image{
+    margin-top: 15px;
+    height:280px;
+    border-radius: 10px;
+}
+.BottomBox{
+    background-color: #5a5353;
+    padding:7px;
+}
+.MusicBox{
+    border-radius: 20px;
+    background-color:#CECACA;
+    margin:20px;
+    padding: 15px;
+    width: 50%;
+}
+.Content{
+    color: #755b5b;
+    padding:15px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.click-here{
+    color:rgb(68, 61, 57);
+    margin-left:10px;
+    font-style:italic;
+    font-size: larger;
+}
+.PopBox{
+    background-color:#fdfdfd;
+    padding:30px;
+}
+.PopHeading{
+    font-family:"BreeSerif";
+    font-weight:bold;
+}
+.PopContent{
+    font-family:"BreeSerif";
+}
+.people-heading{
+    font-weight: bold;
+}
+.people-images{
+    height:150px;
+    margin-right:10px;
+    border-radius:7px;
+}
+.pop-link{
+    color:#070707;
+    font-style:italic;
+}
+.VocalBox{
+    background-color:#d6cece;
+    padding:30px;
+}
+.vocal-link{
+    font-style:italic;
+    color:#070707;
+}
